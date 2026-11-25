@@ -1,0 +1,25 @@
+# Segredos
+.env
+!.env.exemplo
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backups do draw.io
+*.drawio.bkp
+.$*.drawio
