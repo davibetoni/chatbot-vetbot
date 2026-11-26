@@ -39,4 +39,4 @@ Se o PowerShell bloquear o `activate`:
 3. Os testes do professor não mudam.
 4. Todo pull request fecha uma história (`Fecha #N`) e é revisado por outro integrante.
 
-Segredos (senhas, chaves) só no `.env`, que não vai para o Git. Modelo: `.env.exemplo`.
+Segredos (senhas, chaves) só no '.env', que não vai para o Git. Modelo: '.env.exemplo'.
